@@ -1,6 +1,6 @@
 <!-- 🎮 Glitch Welcome Banner -->
 <div align="center">
-  <img src="https://github.com/govu-ux/govu-ux/assets/your-image-path/MoneyWay.jpeg" width="100%" alt="Welcome Banner" />
+  <img src="" width="100%" alt="Welcome Banner" />
 </div>
 
 <!-- 👋 Intro GIF -->
