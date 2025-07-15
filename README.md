@@ -1,6 +1,6 @@
-<!-- 🎮 Glitch Banner -->
+<!-- 🎮 Cyber Welcome Banner -->
 <div align="center">
-  <img src="https://i.ibb.co/Zf07HRx/welcome-glitch.gif" alt="Welcome Banner" width="100%" />
+  <img src="https://github.com/govu-ux/govu-ux/assets/your-image-path/MoneyWay.jpeg" width="100%" alt="Welcome Banner" />
 </div>
 
 <!-- 👋 Intro GIF -->
@@ -45,22 +45,18 @@
 
 ---
 
-### ⚙️ Tech Stack (Animated)
+### ⚙️ Tech Stack with a Twist
 
 <p align="center">
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/html.gif?raw=true" height="50" alt="HTML" />
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/css.gif?raw=true" height="50" alt="CSS" />
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/javascript.gif?raw=true" height="50" alt="JavaScript" />
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/react.gif?raw=true" height="50" alt="React" />
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/tailwind.gif?raw=true" height="50" alt="Tailwind CSS" />
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/python.gif?raw=true" height="50" alt="Python" />
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/php.gif?raw=true" height="50" alt="PHP" />
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/mysql.gif?raw=true" height="50" alt="MySQL" />
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/docker.gif?raw=true" height="50" alt="Docker" />
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/firebase.gif?raw=true" height="50" alt="Firebase" />
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/django.gif?raw=true" height="50" alt="Django" />
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/flutter.gif?raw=true" height="50" alt="Flutter" />
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/figma.gif?raw=true" height="50" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,python,c,docker,firebase,django,flutter,figma,aws,mongodb,kubernetes,oracle" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/roshanrahman/resume-assets/blob/main/html.gif?raw=true" height="50" />
+  <img src="https://github.com/roshanrahman/resume-assets/blob/main/css.gif?raw=true" height="50" />
+  <img src="https://github.com/roshanrahman/resume-assets/blob/main/javascript.gif?raw=true" height="50" />
+  <img src="https://github.com/roshanrahman/resume-assets/blob/main/react.gif?raw=true" height="50" />
+  <img src="https://github.com/roshanrahman/resume-assets/blob/main/python.gif?raw=true" height="50" />
 </p>
 
 ---
