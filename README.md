@@ -1,6 +1,6 @@
 <!-- 🎮 Cyber Welcome Banner -->
 <div align="center">
-  <img src="https://github.com/govu-ux/govu-ux/assets/welcome.jpeg" width="100%" alt="Welcome Banner" />
+  <img src="https://github.com/govu-ux/govu-ux/blob/main/assets/welcome.jpeg" width="100%" alt="Welcome Banner" />
 </div>
 
 <!-- 👋 Intro GIF -->
