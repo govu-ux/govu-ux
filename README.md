@@ -1,4 +1,4 @@
-<!-- 🎮 Cyber Welcome Banner -->
+<!-- 🎮 Glitch Welcome Banner -->
 <div align="center">
   <img src="https://github.com/govu-ux/govu-ux/assets/your-image-path/MoneyWay.jpeg" width="100%" alt="Welcome Banner" />
 </div>
@@ -8,11 +8,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180px" />
 </div>
 
-<!-- 🔤 Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Hi+there+👋%2C+I'm+Govardhan;Frontend+Developer+%7C+Tech+Explorer+%7C+UI+Builder" alt="Typing animation" />
-</h1>
-
+<h1 align="center">Hi there 👋, I'm Govardhan</h1>
 <h3 align="center">🚀 A Frontend Enthusiast | Web Innovator | Code Explorer</h3>
 
 <!-- 🔗 Social Links -->
@@ -45,12 +41,13 @@
 
 ---
 
-### ⚙️ Tech Stack with a Twist
+### ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,python,c,docker,firebase,django,flutter,figma,aws,mongodb,kubernetes,oracle" />
 </p>
 
+<!-- Optional: Additional animation GIFs if you like the style -->
 <p align="center">
   <img src="https://github.com/roshanrahman/resume-assets/blob/main/html.gif?raw=true" height="50" />
   <img src="https://github.com/roshanrahman/resume-assets/blob/main/css.gif?raw=true" height="50" />
