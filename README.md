@@ -1,3 +1,8 @@
+<!-- 🎮 Glitch Welcome Banner 
+<div align="center">
+  <img src="https://github.com/govu-ux/govu-ux/blob/main/assets/welcome.png" width="100%" alt="Welcome Banner" />
+</div>-->
+
 <!-- 👋 Intro GIF -->
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180px" />
@@ -6,18 +11,16 @@
 <h1 align="center">Hi there 👋, I'm Govardhan</h1>
 <h3 align="center">🚀 A Frontend Enthusiast | Web Innovator | Code Explorer</h3>
 
-<!-- 🔗 Sleek Circular Social Icons -->
+<!-- 🔗 Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/govardhan-696775253" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://govawork.netlify.app/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="35" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:gova.b2006@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/D14836/gmail-new.png" height="35" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -38,35 +41,19 @@
 
 ---
 
-### ⚙️ Animated Tech Stack
+### ⚙️ Tech Stack
 
-<div align="center" style="display:flex;flex-wrap:wrap;gap:20px;justify-content:center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50" title="HTML" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50" title="CSS" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" title="JavaScript" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50" title="React" />
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50" title="Tailwind" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" title="Python" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="50" title="PHP" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="50" title="MySQL" />
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="50" title="Firebase" />
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="50" title="Django" />
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="50" title="Flutter" />
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="50" title="Figma" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="50" title="Docker" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="50" title="Kubernetes" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="50" title="AWS" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50" title="C" />
-
-</div>
-
-<!-- Optional: Add glowing animation -->
 <p align="center">
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/html.gif?raw=true" height="40" />
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/css.gif?raw=true" height="40" />
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/javascript.gif?raw=true" height="40" />
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/react.gif?raw=true" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,python,c,docker,firebase,django,flutter,figma,aws,mongodb,kubernetes,oracle" />
+</p>
+
+<!-- Optional: Additional animation GIFs if you like the style -->
+<p align="center">
+  <img src="https://github.com/roshanrahman/resume-assets/blob/main/html.gif?raw=true" height="50" />
+  <img src="https://github.com/roshanrahman/resume-assets/blob/main/css.gif?raw=true" height="50" />
+  <img src="https://github.com/roshanrahman/resume-assets/blob/main/javascript.gif?raw=true" height="50" />
+  <img src="https://github.com/roshanrahman/resume-assets/blob/main/react.gif?raw=true" height="50" />
+  <img src="https://github.com/roshanrahman/resume-assets/blob/main/python.gif?raw=true" height="50" />
 </p>
 
 ---
@@ -100,3 +87,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:56cc9d&height=100&section=footer"/>
 </p>
+
