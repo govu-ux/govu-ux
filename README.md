@@ -1,8 +1,3 @@
-<!-- 🎮 Glitch Welcome Banner 
-<div align="center">
-  <img src="https://github.com/govu-ux/govu-ux/blob/main/assets/welcome.png" width="100%" alt="Welcome Banner" />
-</div>-->
-
 <!-- 👋 Intro GIF -->
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180px" />
@@ -11,16 +6,18 @@
 <h1 align="center">Hi there 👋, I'm Govardhan</h1>
 <h3 align="center">🚀 A Frontend Enthusiast | Web Innovator | Code Explorer</h3>
 
-<!-- 🔗 Social Links -->
+<!-- 🔗 Sleek Circular Social Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/govardhan-696775253" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" height="35" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://govawork.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="35" alt="Portfolio" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:gova.b2006@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/50/D14836/gmail-new.png" height="35" alt="Gmail" />
   </a>
 </p>
 
@@ -47,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,python,c,docker,firebase,django,flutter,figma,aws,mongodb,kubernetes,oracle" />
 </p>
 
-<!-- Optional: Additional animation GIFs if you like the style -->
+<!-- Optional: Animated Tech GIFs -->
 <p align="center">
   <img src="https://github.com/roshanrahman/resume-assets/blob/main/html.gif?raw=true" height="50" />
   <img src="https://github.com/roshanrahman/resume-assets/blob/main/css.gif?raw=true" height="50" />
