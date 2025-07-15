@@ -38,19 +38,35 @@
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Animated Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,python,c,docker,firebase,django,flutter,figma,aws,mongodb,kubernetes,oracle" />
-</p>
+<div align="center" style="display:flex;flex-wrap:wrap;gap:20px;justify-content:center">
 
-<!-- Optional: Animated Tech GIFs -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50" title="HTML" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50" title="CSS" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" title="JavaScript" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50" title="React" />
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50" title="Tailwind" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" title="Python" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="50" title="PHP" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="50" title="MySQL" />
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="50" title="Firebase" />
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="50" title="Django" />
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="50" title="Flutter" />
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="50" title="Figma" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="50" title="Docker" />
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="50" title="Kubernetes" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="50" title="AWS" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50" title="C" />
+
+</div>
+
+<!-- Optional: Add glowing animation -->
 <p align="center">
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/html.gif?raw=true" height="50" />
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/css.gif?raw=true" height="50" />
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/javascript.gif?raw=true" height="50" />
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/react.gif?raw=true" height="50" />
-  <img src="https://github.com/roshanrahman/resume-assets/blob/main/python.gif?raw=true" height="50" />
+  <img src="https://github.com/roshanrahman/resume-assets/blob/main/html.gif?raw=true" height="40" />
+  <img src="https://github.com/roshanrahman/resume-assets/blob/main/css.gif?raw=true" height="40" />
+  <img src="https://github.com/roshanrahman/resume-assets/blob/main/javascript.gif?raw=true" height="40" />
+  <img src="https://github.com/roshanrahman/resume-assets/blob/main/react.gif?raw=true" height="40" />
 </p>
 
 ---
