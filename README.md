@@ -1,7 +1,7 @@
-<!-- 🎮 Glitch Welcome Banner -->
+<!-- 🎮 Glitch Welcome Banner 
 <div align="center">
   <img src="https://github.com/govu-ux/govu-ux/blob/main/assets/welcome.png" width="100%" alt="Welcome Banner" />
-</div>
+</div>-->
 
 <!-- 👋 Intro GIF -->
 <div align="center">
