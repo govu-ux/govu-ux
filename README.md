@@ -35,9 +35,10 @@
 
 ## 🧠 About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DCFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Govardhan+👋;Frontend+Enthusiast+%7C+Code+Explorer+%7C+UI+Lover;I+turn+ideas+into+beautiful+web+interfaces!" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DCFFF&center=true&vCenter=true&width=600&lines=Hi+I%27m+Govardhan+%F0%9F%91%8B;Frontend+Enthusiast+%7C+Code+Explorer+%7C+UI+Lover;I+turn+ideas+into+beautiful+web+interfaces%21" alt="Typing SVG" />
+</p>
+
 
 <br/>
 
@@ -62,14 +63,9 @@ resume: https://example.com/resume.pdf
 🧠 Goal: Build clean, fast, and meaningful web experiences — one pixel at a time
 
 <div align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50" /> </div>
+
+
 ## 🚀 Tech Stack
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=600&lines=Here+are+the+techs+I+work+with+daily!;Front+to+Back,+Design+to+Deploy+⚙️" />
-</div>
-
-<br/>
-
 ### 🧑‍🎨 Frontend
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,flutter" />
@@ -129,8 +125,9 @@ resume: https://example.com/resume.pdf
 ## 🌟 Featured Projects
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=435&lines=My+Top+Projects;Built+with+❤️+and+💻" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=600&lines=My+Top+Projects;Built+with+Love+and+Code%21" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -205,8 +202,9 @@ resume: https://example.com/resume.pdf
 ## 🤝 Let’s Collaborate!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=600&lines=Let's+Build+Something+Awesome+Together!;Open+to+Projects,+Internships+%26+Collabs!;Drop+a+DM+or+Shoot+an+Email+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=600&lines=Let%27s+Build+Something+Awesome+Together!;Open+to+Projects%2C+Internships+%26+Collabs!;Drop+a+DM+or+Shoot+an+Email" alt="Typing SVG" />
 </div>
+
 
 <br/>
 
@@ -250,9 +248,4 @@ resume: https://example.com/resume.pdf
 </div>
 
 ---
-
-<!-- 🌊 Footer -->
-
-<img src="https://github.com/govu-ux/govu-ux/blob/main/assets/footer-wave.svg" width="100%" />
-
 
