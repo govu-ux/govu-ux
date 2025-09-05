@@ -178,3 +178,42 @@ resume: https://example.com/resume.pdf
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=govu-ux&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </div>
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=https://github.com/govu-ux&label=Profile%20Visitors&color=blueviolet&style=flat-square)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/govu-ux&theme=onedark&column=7&margin-w=15&margin-h=15)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/govu-ux&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/govu-ux&layout=compact&theme=radical&langs_count=10)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/govu-ux&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+<!-- BLOG_POST_LIST:START -->
+<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
+<!-- It uses a GitHub Action to fetch and display recent posts. -->
+<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
+<!-- BLOG_POST_LIST:END -->
+**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
+
+<!-- MEDIUM_BLOG:START -->
+<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
+<!-- It uses a GitHub Action to fetch and display recent posts. -->
+<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
+<!-- MEDIUM_BLOG:END -->
+**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
+
+<!-- DEVTO_BLOG:START -->
+<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
+<!-- It uses a GitHub Action to fetch and display recent posts. -->
+<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
+<!-- DEVTO_BLOG:END -->
+**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
+
+</div>
+
+---
