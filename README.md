@@ -5,8 +5,8 @@
 
 <!-- 👋 GIF Intro -->
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160px" />
-  <h1 align="center">Hi, I'm <span style="color:#7dcfff;">Govardhan</span> 👋</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px" />
+  <h1 align="center">Hey, I'm <span style="color:#7dcfff;">Govardhan</span> 👋</h1>
   <h3 align="center">Frontend Enthusiast 💻 | Web Innovator 🌐 | Code Explorer 🚀</h3>
 </div>
 
@@ -31,6 +31,10 @@
 ---
 
 ## 🧠 About Me  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBIygOcC3bAWg3S/giphy.gif" width="250px" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DCFFF&center=true&vCenter=true&width=700&lines=Hi+I'm+Govardhan+%F0%9F%91%8B;Frontend+Enthusiast+%7C+Code+Explorer+%7C+UI+Lover;I+turn+ideas+into+beautiful+web+interfaces!" alt="Typing SVG" />
@@ -87,6 +91,10 @@ resume: https://example.com/resume.pdf
 ---
 
 ## 🌟 Featured Projects  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=600&lines=Top+Projects;Built+with+Passion+%26+Code!" alt="Typing SVG" />
@@ -147,6 +155,10 @@ resume: https://example.com/resume.pdf
 ## 🤝 Let’s Collaborate  
 
 <p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300px" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=600&lines=Let's+Build+Awesome+Stuff+Together!;Open+to+Projects%2C+Internships+%26+Collabs!;Drop+a+DM+or+Send+an+Email" alt="Typing SVG" />
 </p>
 
@@ -166,6 +178,10 @@ resume: https://example.com/resume.pdf
 
 ## 💡 Fun Facts  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="250px" />
+</p>
+
 - 🎮 Build **mini-games** for fun (Flappy Bird clone!)  
 - 🎨 Love **dark UI design** & animations  
 - 🚀 Obsessed with **fast deployments**  
@@ -178,7 +194,3 @@ resume: https://example.com/resume.pdf
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=govu-ux&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </div>
-
-
-
----
